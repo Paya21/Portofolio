@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portofolio/static/css/main.6fc97f11.css",
+    "main.css": "/Portofolio/static/css/main.c8e90db8.css",
     "main.js": "/Portofolio/static/js/main.587d3656.js",
     "static/js/787.93d109b3.chunk.js": "/Portofolio/static/js/787.93d109b3.chunk.js",
     "static/media/DSC03686_1.webp": "/Portofolio/static/media/DSC03686_1.7b17370aa652b821a4f6.webp",
@@ -8,12 +8,12 @@
     "static/media/Nina_Carducci.PNG": "/Portofolio/static/media/Nina_Carducci.6616f67b9fd4d5ba7043.PNG",
     "index.html": "/Portofolio/index.html",
     "static/media/threelines.webp": "/Portofolio/static/media/threelines.71579275f76d177c9181.webp",
-    "main.6fc97f11.css.map": "/Portofolio/static/css/main.6fc97f11.css.map",
+    "main.c8e90db8.css.map": "/Portofolio/static/css/main.c8e90db8.css.map",
     "main.587d3656.js.map": "/Portofolio/static/js/main.587d3656.js.map",
     "787.93d109b3.chunk.js.map": "/Portofolio/static/js/787.93d109b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fc97f11.css",
+    "static/css/main.c8e90db8.css",
     "static/js/main.587d3656.js"
   ]
 }
