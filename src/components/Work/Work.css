@@ -1,0 +1,30 @@
+.global-work
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    justify-content: center;
+}
+
+.title
+{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+.lien
+{
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+
+}
+
+@media screen and (max-width: 815px) {
+    .global-work{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+}

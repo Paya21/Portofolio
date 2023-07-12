@@ -1,0 +1,41 @@
+.global-card
+{
+    color: white;
+    position: relative;
+    z-index: 3;
+    width: 25%;
+    background-color: rgb(117, 105, 105);
+    border-radius: 50px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 1px 1px 3px;
+}
+
+.list-card
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.title-card
+{
+    display: flex;
+    justify-content: center;
+}
+
+.descr-card
+{
+    padding: 20px;
+    border-top: 1px solid black;
+}
+
+@media screen and (max-width: 815px) {
+    
+    .global-card{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+}

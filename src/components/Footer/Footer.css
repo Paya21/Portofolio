@@ -1,0 +1,22 @@
+.global-footer
+{
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    height: 150px;
+}
+
+.contact
+{
+    display: flex;
+    align-items: center;
+}
+
+.contact > p 
+{
+    margin-right: 20px;
+}

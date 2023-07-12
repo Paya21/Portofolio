@@ -1,0 +1,48 @@
+.global-skill
+{
+    background-color: rgb(53, 18, 18);
+    width: 100%;
+    height: auto;
+    /* position: absolute; */
+    /* z-index: 1; */
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-skill
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.cv
+{
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+    background-color: black;
+    line-height: 30px;
+}
+
+
+@media screen and (max-width: 815px) {
+
+    .card-skill{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    
+}

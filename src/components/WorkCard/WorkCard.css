@@ -1,0 +1,45 @@
+.work-card 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 30px;
+    background: none;
+    font-family: 'Quicksand', sans-serif;
+    margin: 20px;
+}
+
+img
+{
+    width: 90%;
+}
+
+.lien-card-word
+{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+
+.lien-card-word:hover
+{
+    border: 1px solid black;
+    border-radius: 50px;
+    box-shadow: 1px 0px 5px 1px;
+}
+
+.lien-repo
+{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.lien-repo:hover
+{
+    color: brown;
+    border-bottom: 1px solid brown;
+}
