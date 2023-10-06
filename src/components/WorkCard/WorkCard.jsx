@@ -10,6 +10,7 @@ function WorkCard({image, descr, title, title2, lienRepo}) {
                 <h2>{title}</h2>
                 <p>{title2}</p>
                 <p className='descr'>{descr}</p>
+                <a href={lienRepo} target='_blank' rel='noreferrer' className='lien-repo'>Lien vers le repository</a>
             </div>
         </div>
         

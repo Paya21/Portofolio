@@ -55,18 +55,36 @@
   align-items: flex-start;
 }
 
-.card:hover .descr{
+.card:hover .descr {
   display: flex;
+}
+
+.card:hover .lien-repo {
+  display: flex;
+  text-decoration: none;
+  color: brown;
+}
+
+.lien-repo:hover{
+  border-bottom: 1px solid brown;
 }
 
 .descr{
   display: none;
 }
 
+.lien-repo{
+  display:none;
+  font-size: 12px;
+}
+
 .card-footer h2 {
-  margin-bottom: 0;
+  margin-bottom: 6px;
+  font-size: 18px;
 }
 
 .card-footer p {
-  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 12px;
 }
+

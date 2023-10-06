@@ -31,7 +31,7 @@ function Work() {
                 
                 
                 <WorkCard image={logoNina}
-                descr={"Debuggage et optimisation du site photographe Nina carducci. Un projet qui sort de l'ordinaire, je ne savais pas que l'optmisation était une des facettes du métier de développeur, je suis ravi d'avoir pu découvrir les outils qui permettent d'analyser le foncionnement d'un site et d'avoir su trouver (non sans efforts) les solutions pour l'optimisation. J'ai appris beacoup de chose sur l'importance de l'accesibilité (balises sémantiques, labels), des performances (chargement des scripts), et du référencement (rich snippets)."}
+                descr={"Un projet qui sort de l'ordinaire, je ne savais pas que l'optmisation était une des facettes du métier de développeur, je suis ravi d'avoir pu découvrir les outils qui permettent d'analyser le foncionnement d'un site et d'avoir su trouver (non sans efforts) les solutions pour l'optimisation. J'ai appris beacoup de chose sur l'importance de l'accesibilité (balises sémantiques, labels), des performances (chargement des scripts), et du référencement (rich snippets)."}
                 title={"Nina Carducci"}
                 title2={"Debug et optimisation"}
                 lienRepo={"https://github.com/Paya21/nina-carducci.github.io"} />

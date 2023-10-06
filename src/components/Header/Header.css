@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+
 .global
 {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: column;
 }
@@ -36,6 +39,7 @@
 
 .navbar > li > a:hover {
     border-bottom: 1px solid brown;
+    color: brown;
 }
 
 .burger-icon{
