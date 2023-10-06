@@ -1,20 +1,18 @@
 import './WorkCard.css'
 
 
-function WorkCard({image, descr, lien, lienRepo}) {
+function WorkCard({image, descr, title, title2, lienRepo}) {
 
     return(
-        <article className="work-card">
-            
-            <a href={lien} className="lien-card-word" target="_blank" rel='noreferrer'>
-            <img src={image} alt="Logo work"></img>
-            <p>{descr}</p>
-            </a>
-
-            <a className="lien-repo" href={lienRepo} target="_blank" rel='noreferrer'>Lien vers le repo</a>
-       
+        <div className='card'>
+            <img src={image} alt='projet' className='card-img'/>
+            <div className="card-footer">
+                <h2>{title}</h2>
+                <p>{title2}</p>
+                <p className='descr'>{descr}</p>
+            </div>
+        </div>
         
-        </article>
 
     )
 }

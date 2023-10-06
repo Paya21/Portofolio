@@ -6,7 +6,8 @@ function Banner() {
     return(
         <div className ="banner">
             <img src={bannerImg} alt = "bannière" />
-            <p className="text-banner">Bonjour, <br/> je suis Clément Paya développeur web full-stack.</p>
+            <p className="text-banner">Bonjour, <br/> je suis Clément Paya développeur web full-stack.<br/> 
+            Spécialisé en React et NodeJs</p>
         </div>
     )
 } 

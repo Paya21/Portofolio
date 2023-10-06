@@ -4,8 +4,9 @@
 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: auto;
+    margin-left: 50px;
     justify-content: center;
+    gap: 35px;
 }
 
 .title
@@ -23,6 +24,8 @@
 
 }
 
+
+
 @media screen and (max-width: 815px) {
     .global-work{
         display: flex;
@@ -30,3 +33,4 @@
         margin: auto;
     }
 }
+
