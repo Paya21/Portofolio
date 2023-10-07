@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portofolio/static/css/main.a8e0faaf.css",
-    "main.js": "/Portofolio/static/js/main.b8826a3c.js",
+    "main.js": "/Portofolio/static/js/main.cb97604b.js",
     "static/js/787.93d109b3.chunk.js": "/Portofolio/static/js/787.93d109b3.chunk.js",
     "static/media/LOGO (2).png": "/Portofolio/static/media/LOGO (2).ee9027b8d13dbe08feba.png",
     "static/media/Mon Vieux Grimoire.png": "/Portofolio/static/media/Mon Vieux Grimoire.69b530ed1a4c2edc090d.png",
@@ -9,15 +9,15 @@
     "static/media/AcceuilLogOut.PNG": "/Portofolio/static/media/AcceuilLogOut.d3470fadf7a4f016a464.PNG",
     "static/media/Booki1.PNG": "/Portofolio/static/media/Booki1.34b66dccff11ce21edf4.PNG",
     "static/media/DSC03686_1.webp": "/Portofolio/static/media/DSC03686_1.7b17370aa652b821a4f6.webp",
-    "static/media/clement PAya-3.pdf": "/Portofolio/static/media/clement PAya-3.303d908ea1c989b9d5c1.pdf",
+    "static/media/clement PAya-3.pdf": "/Portofolio/static/media/clement PAya-3.50da9e44891b8808124b.pdf",
     "index.html": "/Portofolio/index.html",
     "static/media/threelines.webp": "/Portofolio/static/media/threelines.71579275f76d177c9181.webp",
     "main.a8e0faaf.css.map": "/Portofolio/static/css/main.a8e0faaf.css.map",
-    "main.b8826a3c.js.map": "/Portofolio/static/js/main.b8826a3c.js.map",
+    "main.cb97604b.js.map": "/Portofolio/static/js/main.cb97604b.js.map",
     "787.93d109b3.chunk.js.map": "/Portofolio/static/js/787.93d109b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8e0faaf.css",
-    "static/js/main.b8826a3c.js"
+    "static/js/main.cb97604b.js"
   ]
 }
